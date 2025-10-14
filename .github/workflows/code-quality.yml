@@ -1,6 +1,5 @@
 name: Code Quality
 
-# Запускать при pull request в dev
 on:
   pull_request:
     branches:
