@@ -3,6 +3,3 @@ parameters:
     paths:
         - app
         - routes
-    inferPrivatePropertyTypeFromConstructor: true
-    checkMissingIterableValueType: false
-    checkMissingVarTagType: false
