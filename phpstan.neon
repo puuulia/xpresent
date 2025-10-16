@@ -3,3 +3,6 @@ parameters:
     paths:
         - app
         - routes
+
+    ignoreErrors:
+        - '#Access to an undefined property App\\Http\\Resources\\.*Resource::\$.*#'
