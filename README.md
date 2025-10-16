@@ -54,6 +54,12 @@ docker compose exec workspace npm run dev
 - **Log Viewer:** `/log-viewer`
 - **Laravel Telescope:** `/telescope`
 - **Laravel Horizon:** `/horizon`
+- **phpmyadmin** `:8081`
+
+Данные для входа в **phpmyadmin**:
+**Сервер:** mysql
+**Пользователь:** xpresent
+**Пароль:** laravel
 
 ### 🛠 Работа с кодом
 
